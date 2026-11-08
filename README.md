@@ -1,42 +1,43 @@
-# 1984
+# 1984: MEMORY HOLE
 
-Unity project inspired by George Orwell's *1984*, developed for the Virtual
-Reality course at Politecnico di Torino — Group 04.
+### Ministry of Truth Training Simulation
 
-## Synopsis
+*An immersive educational experience inspired by George Orwell's* **1984**
 
-Set within a government-controlled virtual-reality training programme,
-*1984: The Ministry Simulation (The Censor)* puts the player in the role of a
-Ministry of Truth recruit. The application is designed for students exploring
-George Orwell's *1984*, using participation to examine the novel's themes of
-surveillance, censorship, manipulated truth, and obedience.
+> **The Ministry does not need heroes. It needs eyes.**
 
-The player navigates a sequence of domestic and bureaucratic spaces in first
-person. These environments are monochrome, brutalist, and empty: worn
-concrete, sparse pools of light, red accents, telescreens, and cameras create
-the sense that the world is watching. Equipped with a visual scanner, the
-recruit searches each room for anomalies forbidden by the Party. A diary, an
-unretouched photograph, or real chocolate can become evidence of
-rebellion. The player identifies each object, selects it, and digitally
-“vaporises” it from the simulation.
+## WELCOME, RECRUIT.
 
-There is no frenetic action. The tension comes from exploration and carrying
-out the regime's clinical procedures. Once a
-room is purged, the environment dissolves into total blackness. Impersonal
-performance assessments and Newspeak slogans appear before the next simulation
-loads, making each transition an act of indoctrination.
+*1984: Memory Hole* is a first-person educational VR experience inspired by
+George Orwell's *1984*. Made for students approaching the novel's questions of
+surveillance, censorship, and truth, it trades explanation for participation.
+Instead of observing Oceania from a safe distance, players enter a
+government-run training simulation and learn the logic of the regime from
+within.
 
-Rather than explaining authoritarian control from a distance, the experience
-uses inverse psychology: it asks users to enact censorship in order to
-progress. Through exploration, object interaction, and the discomfort of being
-watched, players confront how the Party rewrites reality, destroys evidence,
-and normalises obedience. The aim is to make *1984*'s atmosphere of anxiety,
-isolation, and moral unease feel personal.
+They are a Ministry of Truth recruit. Their task is to inspect a sequence of
+domestic and bureaucratic spaces, scanning each room for the traces of thought
+crime. A diary with blank pages, an unretouched photograph, or a piece of real
+chocolate can become evidence of rebellion. Each anomaly is selected and
+digitally “vaporised” from the simulation.
 
-## A0 working document
+The spaces are monochrome, brutalist, and almost empty: worn concrete, sparse
+pools of light, red accents, telescreens, and cameras make the world feel
+always awake. There is no frenetic action. The tension comes from quiet
+exploration, the weight of being watched, and the cold routine of following
+orders. When a room is purged, it dissolves into black. Impersonal performance
+assessments and Newspeak slogans appear before the next simulation begins.
 
-The A0 working-document link has not yet been shared with the repository. It
-will be added here once the team provides the accessible document URL.
+The experience teaches through inverse psychology. To progress, users must
+carry out the censorship they are meant to question. Through exploration,
+object interaction, and the discomfort of complicity, they encounter how the
+Party rewrites reality, destroys evidence, and normalises obedience. *1984:
+Memory Hole* aims to make the anxiety, isolation, and moral unease of *1984*
+feel personal.
+
+## A0 — WORKING DOCUMENT
+
+[Open the living A0 document](https://docs.google.com/document/d/1x7jieOZ1aZauvgIOS90SYdNMSLAN1RL5-S0zLRa0nRY/edit?usp=sharing)
 
 ## A1 — Blockout reference
 
