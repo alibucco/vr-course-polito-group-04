@@ -8,12 +8,13 @@
 
 ## WELCOME, RECRUIT.
 
-*1984: Memory Hole* is a first-person educational VR experience inspired by
-George Orwell's *1984*. Made for students approaching the novel's questions of
+*1984: Memory Hole* is a first-person educational desktop experience inspired
+by George Orwell's *1984*. Made for students approaching the novel's questions of
 surveillance, censorship, and truth, it trades explanation for participation.
 Instead of observing Oceania from a safe distance, players enter a
 government-run training simulation and learn the logic of the regime from
-within.
+within. The experience is designed for PC desktop, with first-person
+navigation through keyboard and mouse controls.
 
 They are a Ministry of Truth recruit. Their task is to inspect a sequence of
 domestic and bureaucratic spaces, scanning each room for the traces of thought
