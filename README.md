@@ -5,11 +5,17 @@ Reality course at Politecnico di Torino — Group 04.
 
 ## Synopsis
 
-*1984* is an educational first-person experience set in a dystopian society
-under the control of the Party. The experience introduces the player to a
-collective gathering dominated by a giant screen broadcasting Big Brother's
-message, then uses exploration and environmental storytelling to make the
-mechanisms of surveillance, conformity, and control tangible.
+*1984: The Ministry Simulation (The Censor)* is an educational first-person
+experience in which the player is a Ministry of Truth recruit completing a
+government training simulation. They inspect stark, mostly monochrome domestic
+and bureaucratic spaces with a visual scanner, identify forbidden anomalies
+such as an unedited photograph or a diary, and digitally “vaporise” them. Once
+an environment has been purged, it fades to black before the next simulation
+loads, while impersonal Party evaluations and Newspeak slogans appear. Sparse
+lighting, telescreens, cameras, brutalist concrete, and a deliberately empty
+world create an anxious atmosphere. By making the player apply the regime’s
+rules, the experience uses inverse psychology to expose its mechanisms of
+surveillance, censorship, and control.
 
 ## A0 working document
 
