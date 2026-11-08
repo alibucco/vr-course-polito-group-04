@@ -4,9 +4,9 @@
 
 *An immersive educational experience inspired by George Orwell's* **1984**
 
-> **The Ministry does not need heroes. It needs eyes.**
+## SYNOPSIS
 
-## WELCOME, RECRUIT.
+### WELCOME, RECRUIT.
 
 *1984: Memory Hole* is a first-person educational desktop experience inspired
 by George Orwell's *1984*. Made for students approaching the novel's questions of
@@ -38,14 +38,12 @@ feel personal.
 
 ## A0 — WORKING DOCUMENT
 
-[Open the living A0 document](https://docs.google.com/document/d/1x7jieOZ1aZauvgIOS90SYdNMSLAN1RL5-S0zLRa0nRY/edit?usp=sharing)
+[Open the living A0 document](https://docs.google.com/document/d/1eLbUYFEiOthodwEE9L-YCi8bgh6uRNUWNQqJSzcR38c/edit?usp=sharing)
 
 ## A1 — Blockout reference
 
-For A1, the team will block out the apartment/interior below, rather than the
-introductory gathering. It is a restricted, lived-in domestic space with a
+For A1, the team will block out the apartment/interior below. It is a restricted, lived-in domestic space with a
 prominent surveillance screen, exposed pipes, worn walls, and an adjoining
-stairwell. The environment is inspired by the world of *1984*; its final
-narrative owner is intentionally not specified.
+stairwell.
 
 ![Four-panel apartment and stairwell reference for A1](Docs/a1-apartment-reference.png)
