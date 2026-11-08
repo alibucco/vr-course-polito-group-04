@@ -5,17 +5,33 @@ Reality course at Politecnico di Torino — Group 04.
 
 ## Synopsis
 
-*1984: The Ministry Simulation (The Censor)* is an educational first-person
-experience in which the player is a Ministry of Truth recruit completing a
-government training simulation. They inspect stark, mostly monochrome domestic
-and bureaucratic spaces with a visual scanner, identify forbidden anomalies
-such as an unedited photograph or a diary, and digitally “vaporise” them. Once
-an environment has been purged, it fades to black before the next simulation
-loads, while impersonal Party evaluations and Newspeak slogans appear. Sparse
-lighting, telescreens, cameras, brutalist concrete, and a deliberately empty
-world create an anxious atmosphere. By making the player apply the regime’s
-rules, the experience uses inverse psychology to expose its mechanisms of
-surveillance, censorship, and control.
+Set within a government-controlled virtual-reality training programme,
+*1984: The Ministry Simulation (The Censor)* puts the player in the role of a
+Ministry of Truth recruit. The application is designed for students exploring
+George Orwell's *1984*, using participation to examine the novel's themes of
+surveillance, censorship, manipulated truth, and obedience.
+
+The player navigates a sequence of domestic and bureaucratic spaces in first
+person. These environments are monochrome, brutalist, and empty: worn
+concrete, sparse pools of light, red accents, telescreens, and cameras create
+the sense that the world is watching. Equipped with a visual scanner, the
+recruit searches each room for anomalies forbidden by the Party. A diary, an
+unretouched photograph, or real chocolate can become evidence of
+rebellion. The player identifies each object, selects it, and digitally
+“vaporises” it from the simulation.
+
+There is no frenetic action. The tension comes from exploration and carrying
+out the regime's clinical procedures. Once a
+room is purged, the environment dissolves into total blackness. Impersonal
+performance assessments and Newspeak slogans appear before the next simulation
+loads, making each transition an act of indoctrination.
+
+Rather than explaining authoritarian control from a distance, the experience
+uses inverse psychology: it asks users to enact censorship in order to
+progress. Through exploration, object interaction, and the discomfort of being
+watched, players confront how the Party rewrites reality, destroys evidence,
+and normalises obedience. The aim is to make *1984*'s atmosphere of anxiety,
+isolation, and moral unease feel personal.
 
 ## A0 working document
 
