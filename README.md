@@ -42,8 +42,9 @@ feel personal.
 
 ## A1 — Blockout reference
 
-For A1, the team will block out the apartment/interior below. It is a restricted, lived-in domestic space with a
-prominent surveillance screen, exposed pipes, worn walls, and an adjoining
-stairwell.
+For A1, the team will block out the apartment room shown in the three
+reference panels on the right and lower row below. The room is a restricted,
+lived-in domestic space with a prominent surveillance screen, worn walls, and
+simple furnishings.
 
-![Four-panel apartment and stairwell reference for A1](Docs/a1-apartment-reference.png)
+![Four-panel apartment reference for A1; upper-left corridor panel excluded](Docs/a1-apartment-reference.png)
