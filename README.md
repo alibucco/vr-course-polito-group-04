@@ -43,8 +43,25 @@ feel personal.
 ## A1 — Blockout reference
 
 For A1, the team will block out the apartment room shown in the three
-reference panels on the right and lower row below. The room is a restricted,
-lived-in domestic space with a prominent surveillance screen, worn walls, and
-simple furnishings.
+references below, drawn from the graphic novel by Derrien and Torregrossa
+and Michael Radford's film adaptation of *1984*. The room is a restricted,
+lived-in domestic space with a prominent surveillance screen, worn walls,
+and simple furnishings.
 
-![Four-panel apartment reference for A1; upper-left corridor panel excluded](Docs/a1-apartment-reference.png)
+<p align="center">
+  <img src="Docs/reference-graphic-novel-derrien-torregrossa-02.png"
+       alt="Apartment reference from the graphic novel"
+       width="600">
+</p>
+
+<p align="center">
+  <img src="Docs/reference-michael-radford-film-1984-01.jpg"
+       alt="Apartment reference from Michael Radford's 1984 — first view"
+       width="600">
+</p>
+
+<p align="center">
+  <img src="Docs/reference-michael-radford-film-1984-02.jpg"
+       alt="Apartment reference from Michael Radford's 1984 — second view"
+       width="600">
+</p>
