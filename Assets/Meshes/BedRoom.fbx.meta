@@ -3,7 +3,37 @@ guid: 88ac3ebb73dbb4b4db761896287d8985
 ModelImporter:
   serializedVersion: 24600
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Assi Legno Pavimento
+    second: {fileID: 2100000, guid: 7aefdc89505924e30bfc7714104b3a12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Intonaco Esterno
+    second: {fileID: 2100000, guid: c6df934deb5464c03a96f8e48f8b8766, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Intonaco Esterno Soffitto
+    second: {fileID: 2100000, guid: 3d2dc0ccb4580453aaa894a08feefa80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Intonaco Interno
+    second: {fileID: 2100000, guid: 367c4700c004249b99d4db9e2df781d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Intonaco Soffitto
+    second: {fileID: 2100000, guid: ddd326769c27b4bf79559f19a23f038e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Legno Battiscopa
+    second: {fileID: 2100000, guid: 293a289fc539948aeaef013c2c873507, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
