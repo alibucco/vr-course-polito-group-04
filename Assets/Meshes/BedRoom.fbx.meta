@@ -12,6 +12,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Brass
+    second: {fileID: 2100000, guid: ef4033b79e35e42aeaf7abd43c071804, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Intonaco Esterno
     second: {fileID: 2100000, guid: c6df934deb5464c03a96f8e48f8b8766, type: 2}
   - first:
@@ -34,6 +39,31 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Legno Battiscopa
     second: {fileID: 2100000, guid: 293a289fc539948aeaef013c2c873507, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Legno Telaio Finestra
+    second: {fileID: 2100000, guid: bd2059c38d3074b1aab0413dbdf54562, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Legno Telaio Finestra.001
+    second: {fileID: 2100000, guid: 21d28ae3b740641bd929736bf8f41da1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Legno_Porta
+    second: {fileID: 2100000, guid: 4f58c83ccabbe4c029c9666652a6dd7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Legno_Porta.001
+    second: {fileID: 2100000, guid: e543f79cab8aa4e89bf12f52d2070d19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vetro Finestra
+    second: {fileID: 2100000, guid: d8a56e7c17e504783b3ef0a8cae5dcbb, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
